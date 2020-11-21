@@ -1,6 +1,13 @@
 # BlinkingLEDs
 
 # LED Blink
+A LED that fades in and out
+
+Link to Arduino Code
+https://create.arduino.cc/editor/elena97/48120153-dc07-4ba9-ba19-aee1de5779a9
+
+Video in action
+https://cvilleschools.instructure.com/courses/31056/assignments/303462/submissions/13125?preview=1&rand=81492#
 
 # Finte LED Blinker
 A LED that blinks five times
